@@ -1,6 +1,6 @@
 ### Download MotionFix
 
-[MotionFix](https://github.com/atnikos/motionfix) is avaliable from [here](https://drive.google.com/drive/folders/1DM7oIJwxwoljVxAfhfktocTptwVX5sqR).
+[MotionFix](https://github.com/atnikos/motionfix) is available from [here](https://drive.google.com/drive/folders/1DM7oIJwxwoljVxAfhfktocTptwVX5sqR).
 
 You should rename the motionfix.pth.tar into motionfix_train.pth.tar
 
