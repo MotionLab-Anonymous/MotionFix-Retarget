@@ -1,3 +1,9 @@
+### Download MotionFix
+
+[MotionFix](https://github.com/atnikos/motionfix) is avaliable from [here](https://drive.google.com/drive/folders/1DM7oIJwxwoljVxAfhfktocTptwVX5sqR).
+
+You should rename the motionfix.pth.tar into motionfix_train.pth.tar
+
 ### Download SMPL+H and DMPL model
 
 Download SMPL+H mode from [SMPL+H](https://mano.is.tue.mpg.de/download.php) (choose Extended SMPL+H model used in AMASS project) and DMPL model from [DMPL](https://smpl.is.tue.mpg.de/download.php) (choose DMPLs compatible with SMPL). Then place all the models under "./body_model/".
