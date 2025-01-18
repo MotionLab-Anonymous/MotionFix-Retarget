@@ -8,9 +8,10 @@ You need to run the following scripts in order to obtain MotionFix-Retarget data
 
 You have specify your_path in these ipynb!!!
 
-1. raw_pose_processing.ipynb
-2. motion_representation.ipynb
-3. cal_mean_variance.ipynb
+1. output_files_from_MotionFix.ipynb
+2. raw_pose_processing.ipynb
+3. motion_representation.ipynb
+4. cal_mean_variance.ipynb
 
 
 ## Data Structure
